@@ -1,7 +1,5 @@
 # The Framing of Environmental Issues in China
 
-
-
 ###  Videos on Environmental Issues in China
 
 Interesting...
