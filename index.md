@@ -1,9 +1,9 @@
 # Environmental Cost of China's Growth
 
-- [Demography](page1)
-- [Clusters](page2)
-- [Topic Modeling](page3)
-- [Extras](page4)
+- [Demography](page1.md)
+- [Clusters](page2.md)
+- [Topic Modeling](page3.md)
+- [Extras](page4.md)
 
 <br>
 
