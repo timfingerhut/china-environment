@@ -1,10 +1,10 @@
 
 theme: jekyll-theme-dinky
-title: Title xxx
+title: The Framing of Environmental Issues in China
 description: And this is the textual description of your website 
 menu: [
-{'name': 'China', 'pagename': 'index'},
-{'name': 'this a the 2nd page', 'pagename': 'page1'},
-{'name': 'Go there', 'pagename': 'page2'},
-{'name': 'Yet Another page', 'pagename': 'page3'},
+{'name': 'Home', 'pagename': 'index'},
+{'name': 'Demography', 'pagename': 'page1'},
+{'name': 'Clusters', 'pagename': 'page2'},
+{'name': 'Topic Modeling', 'pagename': 'page3'},
 ]
