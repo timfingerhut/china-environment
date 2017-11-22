@@ -3,7 +3,7 @@ theme: jekyll-theme-dinky
 title: Title xxx
 description: And this is the textual description of your website 
 menu: [
-{'name': 'Home', 'pagename': 'index'},
+{'name': 'China', 'pagename': 'index'},
 {'name': 'this a the 2nd page', 'pagename': 'page1'},
 {'name': 'Go there', 'pagename': 'page2'},
 {'name': 'Yet Another page', 'pagename': 'page3'},
