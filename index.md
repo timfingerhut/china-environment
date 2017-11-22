@@ -1,6 +1,6 @@
 # The Framing of Environmental Issues in China
 
-# VERY EASY
+# Tim, Peilin, Dana, Maria, and Nina 
 
 Here are bullet points:
 - bullet1
