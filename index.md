@@ -5,6 +5,8 @@
 - [Topic Modeling](page3)
 - [Extras](page4)
 
+<br>
+
 ###  <i>The New York Times</i>
 
 <iframe width="427" height="240" src="https://www.youtube.com/embed/t77bLtIck2g" frameborder="0" gesture="media" allowfullscreen></iframe>
