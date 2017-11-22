@@ -9,3 +9,6 @@ Also possible to embed iframes from Google sheet for instance (see this [page](h
 
 
 <iframe width="300" height="150" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIfbypmECTCJl92Y_6YJh1CLUfdiUIEWtrbK7jLt1uQoy8t1W5JZz-NjP8nciUS2ByLUjJpxcsmDKN/pubchart?oid=1939677787&amp;format=interactive"></iframe>
+
+
+- [Home](index.md) - [Previous Page](page2.md) - [Next Page](page4.md)
