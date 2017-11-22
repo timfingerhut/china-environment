@@ -7,5 +7,4 @@
 
 ### hypertext links:
 
-- [Home](index.md)
-- [Next Page](page2.md)
+[Home](index.md) [Next Page](page2.md)
