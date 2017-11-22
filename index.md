@@ -8,6 +8,7 @@ Here are bullet points:
 
 ## Multimedia Content:
 
+<iframe src="https://documents.cortext.net/be39/be399edf72b4f765793ee091127a0f69/52308/contingency_matrix-all-china-news-sources-logTrue-sentpolarity_Headline-ISItermsAll_Articles_Top_200_T-y1_214-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
 ###  videos
 
