@@ -4,11 +4,9 @@
 
 <iframe width="427" height="240" src="https://www.youtube.com/embed/t77bLtIck2g" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-### texts
+### <i>China Daily</i>
 
-Adding a pdf:
-
-<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
+<iframe class="scribd_iframe_embed" src="https://www.scribd.com/document/22619751/China-Daily-USA-11-16-19#page=1" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
 Highlight an excerpt as a block:
 ```
