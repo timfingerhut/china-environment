@@ -6,7 +6,8 @@
 
 ### <i>China Daily</i>
 
-<iframe class="scribd_iframe_embed" src="https://www.scribd.com/document/22619751/China-Daily-USA-11-16-19#page=1" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
+<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View China Daily USA 11&#x2F;16&#x2F;19 on Scribd" href="https://www.scribd.com/document/22619751/China-Daily-USA-11-16-19#from_embed"  style="text-decoration: underline;" >China Daily USA 11&#x2F;16&#x2F;19</a> by <a title="View China Daily USA's profile on Scribd" href="https://www.scribd.com/user/19255144/China-Daily-USA#from_embed"  style="text-decoration: underline;" >China Daily USA</a> on Scribd</p><iframe class="scribd_iframe_embed" title="China Daily USA 11/16/19" src="https://www.scribd.com/embeds/22619751/content?start_page=1&view_mode=scroll&access_key=key-ekgqjeiaszux9sh0pql&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.75" scrolling="no" id="doc_25978" width="600" height="800" frameborder="0"></iframe>
+
 
 Highlight an excerpt as a block:
 ```
