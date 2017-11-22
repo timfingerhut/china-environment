@@ -1,8 +1,6 @@
-# The Framing of Environmental Issues in China
+# Environmental Cost of China's Growth
 
-###  (this website is awesome!!!)
-
-Interesting...
+###  The New York Times
 
 <iframe width="427" height="240" src="https://www.youtube.com/embed/t77bLtIck2g" frameborder="0" gesture="media" allowfullscreen></iframe>
 
