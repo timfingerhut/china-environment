@@ -6,7 +6,13 @@ body {
   background-image: url("/china-environment/assets/images/china_mountain_nature_landscape_travel_asia_chinese_hill-1060802.jpg!d.jpeg");
   size: cover;
   background-repeat: no-repeat;
-  background-position:center center fixed;
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 </style>
 <div class="imageBox">
