@@ -9,17 +9,8 @@ menu: [
 {'name': 'Topic Modeling', 'pagename': 'page3'},
 {'name': 'Extras', 'pagename': 'page4'},
 
-<html>
-<head>
-<style>
-body, html {
-    height: 100%;
-    margin: 0;
-}
-
-.bg {
     /* The image used */
-    background-image: url("Background1.jpg");
+    background-image: url("china-environment/assets/images/Background1.jpg");
 
     /* Full height */
     height: 100%; 
@@ -29,7 +20,4 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-</style>
-</head>
-<body>
 
