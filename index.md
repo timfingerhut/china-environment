@@ -1,5 +1,16 @@
 ###    Environmental Cost of China's Growth
 
+
+```CSS
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+```
+
 - [Demography](page1.md)
 - [Clusters](page2.md)
 - [Topic Modeling](page3.md)
