@@ -4,7 +4,7 @@
 
 
 body {
-  background-image: url(https://eoimages.gsfc.nasa.gov/images/imagerecords/39000/39038/echina_tmo_2009176_lrg.jpg);
+  background-image: url(https://pxhere.com/en/photo/1060802);
   size: cover;
 }
 </style>
