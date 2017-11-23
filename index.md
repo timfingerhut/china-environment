@@ -1,4 +1,6 @@
  
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/63/Gfp-beijing-forbidden-city-under-smog.jpg)
+
 ###    Environmental Cost of China's Growth
 <br>
 ###  <i>The New York Times</i>
