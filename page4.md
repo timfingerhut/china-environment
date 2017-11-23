@@ -1,11 +1,11 @@
-<!doctype html>
+
 <title>Example</title>
 <style>
-.imageBox {
-  padding: 30px;
-  height: 150px;
-  border: 1px solid black;
+
+
+body {
   background-image: url(https://static.pexels.com/photos/188412/pexels-photo-188412.jpeg);
+  size: cover;
 }
 </style>
 <div class="imageBox">
