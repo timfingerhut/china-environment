@@ -19,8 +19,4 @@ create a citation withing the text:
 
 > Can't believe this is happening! 
 
-body {
-    background: url(china-environment/assets/images/Background1.JPG) no-repeat center center;
-    background-size: cover; 
-}
-
+![background]({{ site.url }}/china-environment/assets/images/Background1.JPG) 
