@@ -1,3 +1,9 @@
+
+body{ 
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/63/Gfp-beijing-forbidden-city-under-smog.jpg");
+background-size: cover
+} 
+ 
 ###    Environmental Cost of China's Growth
 <br>
 ###  <i>The New York Times</i>
@@ -18,10 +24,4 @@ Environmental issues continue to dominate Chinese Media!
 create a citation withing the text:
 
 > Can't believe this is happening! 
-
-
-    background-image:url("https://upload.wikimedia.org/wikipedia/commons/6/63/Gfp-beijing-forbidden-city-under-smog.jpg");
-    height: 700px;
-    width:100%;
-    background-size:cover;
 
