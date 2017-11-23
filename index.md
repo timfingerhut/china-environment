@@ -2,7 +2,6 @@
 
 
 ```CSS
-html { 
   background: url(china-environment/mountain-301553_960_720.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
