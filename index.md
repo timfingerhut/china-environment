@@ -1,5 +1,3 @@
-<div style="background-image:url(https://static.pexels.com/photos/188412/pexels-photo-188412.jpeg;">
-
 ### Environmental Cost of China's Growth
 <br>
 ### <i>The New York Times</i>
