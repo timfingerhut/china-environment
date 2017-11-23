@@ -1,4 +1,5 @@
- 
+<div style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/2/23/Emeishan%2C_Leshan%2C_Sichuan%2C_China_-_panoramio_%2824%29.jpg);width:220px;height:140px;color:black;font-size:18px;">
+
 ###    Environmental Cost of China's Growth
 <br>
 ###  <i>The New York Times</i>
