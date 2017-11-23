@@ -9,5 +9,5 @@ body {
 }
 </style>
 <div class="imageBox">
-<p>This div element has a background-image. To stop it repeating see the <a href="/css/properties/css_background-repeat.cfm">background-repeat</a> property.</p>
+<p>lalalala.</p>
 </div>
