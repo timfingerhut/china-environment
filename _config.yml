@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 title: The Framing of Environmental Issues in China
 description: <i> The Discussion of Climate Change&#8212;a Comparative Study</i> 
 menu: [
-{'name': 'Home', 'pagename': 'index'},
+{'name': 'Overview', 'pagename': 'index'},
 {'name': 'Demography', 'pagename': 'page1'},
 {'name': 'Clusters', 'pagename': 'page2'},
 {'name': 'Topic Modeling', 'pagename': 'page3'},
