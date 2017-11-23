@@ -1,5 +1,5 @@
 
-<!doctype html>
+
 <title>Example</title>
 <style>
 body {
