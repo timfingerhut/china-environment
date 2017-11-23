@@ -4,9 +4,7 @@
 - [Clusters](page2.md)
 - [Topic Modeling](page3.md)
 - [Extras](page4.md)
-
 <br>
-
 ###  <i>The New York Times</i>
 
 <iframe width="427" height="240" src="https://www.youtube.com/embed/t77bLtIck2g" frameborder="0" gesture="media" allowfullscreen></iframe>
