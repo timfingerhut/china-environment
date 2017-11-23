@@ -1,6 +1,4 @@
 <div style="background-image:url(https://static.pexels.com/photos/188412/pexels-photo-188412.jpeg;">
-</div>
-
 
 ### Environmental Cost of China's Growth
 <br>
@@ -23,3 +21,4 @@ create a citation withing the text:
 
 > Can't believe this is happening! 
 
+</div>
