@@ -19,10 +19,9 @@ create a citation withing the text:
 
 > Can't believe this is happening! 
 
-.fstPage {
+
     background-image:url("https://upload.wikimedia.org/wikipedia/commons/6/63/Gfp-beijing-forbidden-city-under-smog.jpg");
-    /*background-color: lightgray;*/
     height: 700px;
     width:100%;
     background-size:cover;
-}
+
