@@ -1,8 +1,3 @@
-
-body{ 
-background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/63/Gfp-beijing-forbidden-city-under-smog.jpg");
-background-size: cover
-} 
  
 ###    Environmental Cost of China's Growth
 <br>
