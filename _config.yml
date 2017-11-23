@@ -7,5 +7,5 @@ menu: [
 {'name': 'Demography', 'pagename': 'page1'},
 {'name': 'Clusters', 'pagename': 'page2'},
 {'name': 'Topic Modeling', 'pagename': 'page3'},
-{'name': 'Extras', 'pagename': 'page3'},
+{'name': 'Extras', 'pagename': 'page4'},
 ]
