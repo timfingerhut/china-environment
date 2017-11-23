@@ -1,7 +1,7 @@
 
 theme: jekyll-theme-cayman
 title: The Framing of Environmental Issues in Chinese Media
-description: Discussion of Climate Change-a Comparative Analysis
+description: <i>The Discussion of Climate Change-a Comparative Analysis</i>
 menu: [
 {'name': 'Home', 'pagename': 'index'},
 {'name': 'Demography', 'pagename': 'page1'},
