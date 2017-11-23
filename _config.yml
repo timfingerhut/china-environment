@@ -2,7 +2,6 @@
 theme: jekyll-theme-cayman
 title: The Framing of Environmental Issues in Chinese Media
 description: <i>The Discussion of Climate Change-a Comparative Analysis</i>
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/63/Gfp-beijing-forbidden-city-under-smog.jpg)
 menu: [
 {'name': 'Home', 'pagename': 'index'},
 {'name': 'Demography', 'pagename': 'page1'},
