@@ -21,4 +21,3 @@ create a citation withing the text:
 
 > Can't believe this is happening! 
 
-</div>
