@@ -3,9 +3,5 @@ theme: jekyll-theme-cayman
 title: The Framing of Environmental Issues in Chinese Media
 description: <i>Discussion of Climate Change&#8212;a Comparative Study</i> 
 menu: [
-{'name': 'Overview', 'pagename': 'index'},
-{'name': 'Historical Analysis', 'pagename': 'page1'},
-{'name': 'Clusters', 'pagename': 'page2'},
-{'name': 'Topic Modeling', 'pagename': 'page3'},
-{'name': 'Extras', 'pagename': 'page4'},
+{'name': 'Overview', 'pagename': 'index'},{'name': 'Historical Analysis', 'pagename': 'page1'},{'name': 'Clusters', 'pagename': 'page2'},{'name': 'Topic Modeling', 'pagename': 'page3'},{'name': 'Extras', 'pagename': 'page4'},
 ]
