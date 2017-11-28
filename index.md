@@ -17,9 +17,9 @@ body {
 <br>
 
 ## Overview 
-```
+
 Our project assesses the evolution of discourse regarding environmental issues, particularly climate change, in the Chinese media from 2000 to 2017. While the Chinese officials have raised their awareness of environmental problems due to rapid industrialization, climate change has been discussed as an international, rather than a national issue in the government-controlled press. 
-```
+
 <br>
 
 ## Background 
