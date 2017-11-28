@@ -15,10 +15,13 @@ body {
 
 # Environmental Cost of China's Growth
 <br>
+
 ## Overview 
 ```
 Our project assesses the evolution of discourse regarding environmental issues, particularly climate change, in the Chinese media from 2000 to 2017. While the Chinese officials have raised their awareness of environmental problems due to rapid industrialization, climate change has been discussed as an international, rather than a national issue in the government-controlled press. 
 ```
+<br>
+
 ## Background 
 
 China’s environmental problems emerged largely due to its industrialization since the late 1970s. In order to achieve rapid economic growth, the Chinese government implemented reforms that encouraged the proliferation of rural industries and state enterprises. While this lifted millions out of poverty, the local governments continued facing challenges in monitoring environmental standards. As such, China has become the largest source of carbon and greenhouse gas emissions, as the latter amounted to 27% of global emissions in 2014. The same year, China added 17 million new cars, and in 2015, China consumed 17% more coal than it had reported, which have deteriorated air quality. Moreover, water depletion, pollution, and shortages have also been prevalent due to industrial overuse and contamination. 
