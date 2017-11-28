@@ -14,9 +14,10 @@ body {
 </style>
 
 # Environmental Cost of China's Growth
+
 ## Overview 
 Our project assesses the evolution of discourse regarding environmental issues, particularly climate change, in the Chinese media from 2000 to 2017. While the Chinese officials have raised their awareness of environmental problems due to rapid industrialization, climate change has been discussed as an international, rather than a national issue in the government-controlled press. 
-<br>
+
 ## Background 
 
 China’s environmental problems emerged largely due to its industrialization since the late 1970s. In order to achieve rapid economic growth, the Chinese government implemented reforms that encouraged the proliferation of rural industries and state enterprises. While this lifted millions out of poverty, the local governments continued facing challenges in monitoring environmental standards. As such, China has become the largest source of carbon and greenhouse gas emissions, as the latter amounted to 27% of global emissions in 2014. The same year, China added 17 million new cars, and in 2015, China consumed 17% more coal than it had reported, which have deteriorated air quality. Moreover, water depletion, pollution, and shortages have also been prevalent due to industrial overuse and contamination. 
@@ -29,20 +30,14 @@ Environmental degradation contributed to public unrest, as certain regions in Ch
 
 <br>
 ## What is being done? 
-
 In response, the Chinese government has drawn up initiatives in order to combat environmental issues.  For instance, in 2013, China’s National Development and Reform Commission, revealed its plan regarding combating climate change that listed objectives to be achieved for 2020. It also required some of their factories to report on figures regarding their discharges, allocated over $600 billion to improve air and water quality, and started investing in renewable energy. In 2015, China signed the Paris Climate accord, and began limiting the number of cars that are powered by fossil fuels. During the 19th National Congress of the Communist Party of China in 2017, President Xi Jinping repeatedly mentioned the terms ‘environment’ and ‘green’ during his speech, which, according to Tommy Xie, an economist at the OCBC Bank, reveals a shift in mentality. 
 
-<br>
-
 ## Problematique: Chinese Media and the Discussion of Climate Change 
-
 Despite China’s efforts to tackle environmental issues domestically, the government’s position on climate change has remained contentious.
 
 > As the country remains the largest emitter of greenhouse gasses and carbon, and it is interesting to see how the government controlled media has been discussing climate change in relation to domestic environmental problems. 
 
 The Chinese government has been censoring over media sources in order to retain authoritative control, along with monitoring and blocking websites, such as Wikipedia, Facebook, and Google. As such, it has been ranked as 176 out of 180 countries regarding its freedom of press according to Reporters Without Borders. 
-
-<br> 
 
 ## Methodology and Sources
 
