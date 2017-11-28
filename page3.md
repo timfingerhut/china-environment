@@ -2,7 +2,7 @@
 
 ## Global Times
 <iframe src="https://documents.cortext.net/3546/354699fc802d81b23edb0b3b0b47f8cf/53458/vislda.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
-![network map]({{ site.url }}/demo_website/assets/images/Capture.png)
+<br>
 
 ## China Daily
 
