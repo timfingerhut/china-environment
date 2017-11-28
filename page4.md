@@ -5,7 +5,7 @@
 body {
     margin:0;
     padding:0;
-    background-image:url("/china-environment/assets/images/Page 4 Background.jpeg"); 
+    background-image:url("/china-environment/assets/images/leaves-2811514_960_720.jpg"); 
     background-repeat: no-repeat;
     webkit-background-size: cover;
     moz-background-size: cover;
