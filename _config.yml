@@ -6,7 +6,7 @@ menu: [
 {'name': 'Overview', 'pagename': 'index'},
 {'name': 'Historical Analysis', 'pagename': 'page1'},
 {'name': 'Prototypes', 'pagename': 'page2'},
-{'name': 'Sentiment Analysis', 'pagename': 'page3'},
+{'name': 'Topic Modelling', 'pagename': 'page3'},
 {'name': 'Topic Analysis', 'pagename': 'page4'},
 {'name': 'Network Analysis', 'pagename': 'page5'},
 ]
