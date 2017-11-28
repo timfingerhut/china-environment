@@ -3,7 +3,7 @@
 body {
     margin:0;
     padding:0;
-    background-image:url("/china-environment/assets/images/Flower Background.pdf"); 
+    background-image:url("/china-environment/assets/images/Florals.pdf"); 
     background-repeat: no-repeat;
     webkit-background-size: cover;
     moz-background-size: cover;
