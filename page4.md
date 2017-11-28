@@ -15,7 +15,7 @@ body {
     
 </style>
 
-# Topic Analysis-Contingency Matrix
+# Topic Analysis&#8212;Contingency Matrix
 
 The contingency matrix script proposes to visualize the joint distribution of the top 200 terms that we derived (after parsing all the data from all chosen Chinese news sources) and the news sources themselves. The aim is to see which news outlets cover what environmental topics based on the frequency of the terms. 
 
