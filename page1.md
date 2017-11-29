@@ -42,14 +42,14 @@ Can Chinese Media Help Government Clean the Air?
 
 ## Government's Reaction
 
-2013.09 — China’s State Council released its Action Plan for Air Pollution Prevention and Control (Action Plan) on 12 September 2013 , eight months after the widely-reported air pollution episode that occurred in the January 2013, which covered one-sixth of China’s territory. 
+2013.09: China’s State Council released its Action Plan for Air Pollution Prevention and Control (Action Plan) on 12 September 2013 , eight months after the widely-reported air pollution episode that occurred in the January 2013, which covered one-sixth of China’s territory. 
 
-2014.01 -- China’s new Air Pollution Prevention and Control Law came into effect.
+2014.01: China’s new Air Pollution Prevention and Control Law came into effect.
 
-In December 2015, the Asian Development Bank approved a $300 million loan to help China address the capital region’s choking smog.
+2015.12: the Asian Development Bank approved a $300 million loan to help China address the capital region’s choking smog.
 
 ![network map]({{ site.url }}/china-environment/assets/images/Dempgraphy2peilin.png)
 
-“Local government” are more frequently mentioned than “central government” in air pollution reports
+“Local government” is more frequently mentioned than “central government” in air pollution reports.
 
 [Home](index.md)-[Next Page](page2.md)
