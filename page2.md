@@ -17,7 +17,7 @@ body {
 
 16,000 pig carcasses found floating in river that supplies Shanghai with drinking water (Mar 2013)
 
-| South China Morning Post                           | China Daily           |
+| <P ALIGN=LEFT> South China Morning Post</P>      |  <P ALIGN=LEFT> China Daily</P>         |
 | ------------------------------------------         |:---------------------:|
 | “Pig carcass furore still raising worries”         | “Water safe despite carcasses”      |
 | Reason for carcasses not clear                     | Shanghai’s authorities have guaranteed the quality of the city’s drinking water|
