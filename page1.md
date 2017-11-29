@@ -32,7 +32,9 @@ Can Chinese Media Help Government Clean the Air?
 
 ![network map]({{ site.url }}/china-environment/assets/images/Demograph1peilin.png)
 
-Please consult this date guide to see which how time is encoded in our graphics. Dates are coded in monthly increments. For example, "20" responds to August 2001. "212" corresponds to August 2017. 
+## Date Guide
+
+Please consult this date guide to match time steps with our code for the "Field Evolution" graphics. Dates are coded in monthly increments. For example, "20" responds to August 2001. "212" corresponds to August 2017. 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vReDjOJtd8pgRVVa1iQv4OauMzVx2YTre8H2zvla1iPWQeIi4O12gq_l_iGH-FS9bTBoxGvTkqkPXU1/pubhtml?widget=true&amp;headers=false"></iframe>
 
