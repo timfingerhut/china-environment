@@ -31,7 +31,7 @@ body {
 
 ![network map]({{ site.url }}/china-environment/assets/images/29B0C8BA00000578-3128043-image-a-9_1434542390179.jpg)
 
-<iframe src="https://documents.cortext.net/b9ce/b9ce7406d17e44658332c4e327f0b70f/48915/temporal%20evolution/basic_statistics_ISItermsAll_Articles_Terms_20ISIpubdate.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
+<iframe src="/china-environment/assets/images/Factiva-China Daily-Carcasses.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>
 
 
 [Home](index.md) [Previous Page](page1.md) [Next Page](page3.md)
