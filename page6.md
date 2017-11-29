@@ -11,4 +11,4 @@ This analysis focuses on correlation between air pollution and government's reac
 
 ![network map]({{ site.url }}/china-environment/assets/images/Demograph1peilin.png)
 
-![network map]({{ site.url }}/china-environment/assets/images/Demograph1peilin.png)
+![network map]({{ site.url }}/china-environment/assets/images/Dempgraphy2peilin.png)
