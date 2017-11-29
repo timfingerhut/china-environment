@@ -9,3 +9,4 @@ This analysis focuses on correlation between air pollution and government's reac
 
 ## Demography Analysis
 
+![network map]({{ site.url }}/china-environment/assets/images/Factiva Search.png)
