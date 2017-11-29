@@ -21,11 +21,12 @@ Biggest Themes:
 
 Biggest Themes:
 
-1: air pollution & city (including "pm25", Shanghai's air quality index)
-2: Business & Markets
-3: International affairs
-4: Student & Parks
-5: Animal species & Wildlife (including pandas)
+1: Economy 
+2: World Affairs
+3: Rivers & Pollution
+4: Beijing city
+5: Ministries & Standard-Setting
+6: Animal species & Wildlife (including pandas)
 
 
 [Home](index.md) - [Previous Page](page2.md) - [Next Page](page4.md)
