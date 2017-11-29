@@ -19,6 +19,12 @@ body {
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/EDIGnqxYqMI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
+<br>
+
+![network map]({{ site.url }}/china-environment/assets/images/29B0C8BA00000578-3128043-image-a-9_1434542390179.jpg)
+
+<br>
+
 |**South China Morning Post**                   |**China Daily**|
 | ----------------------------------------------|---------------------------------------|
 | 100,000 copies                                |31 million web visits, 200,000 copies in circulation|
@@ -28,11 +34,12 @@ body {
 | Government’s publicity campaign               |Reason uncertain, but pigs were  young and  died of a virus|
 
 
-
-![network map]({{ site.url }}/china-environment/assets/images/29B0C8BA00000578-3128043-image-a-9_1434542390179.jpg)
-
-<iframe src="/china-environment/assets/images/Factiva-China Daily-Carcasses.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>
+<br>
 
 <iframe src="/china-environment/assets/images/Factiva-China Daily-Carcasses.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="/china-environment/assets/images/Factiva-SCMP-Pig Carcases.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>
 
 [Home](index.md) [Previous Page](page1.md) [Next Page](page3.md)
