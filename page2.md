@@ -35,6 +35,6 @@ body {
 |Dead pigs were removed, polluted stream did not affect water |
 |Reason uncertain, but pigs were  young and  died of a virus|
 
-
+![network map]({{ site.url }}/china-environment/assets/images/Factiva Search.png)
 
 [Home](index.md) [Previous Page](page1.md) [Next Page](page3.md)
