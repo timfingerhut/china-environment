@@ -32,7 +32,7 @@ Environmental degradation contributed to public unrest, as certain regions in Ch
 ## What is being done? 
 In response, the Chinese government has drawn up initiatives in order to combat environmental issues.  For instance, in 2013, China’s National Development and Reform Commission, revealed its plan regarding combating climate change that listed objectives to be achieved for 2020. It also required some of their factories to report on figures regarding their discharges, allocated over $600 billion to improve air and water quality, and started investing in renewable energy. In 2015, China signed the Paris Climate accord, and began limiting the number of cars that are powered by fossil fuels. During the 19th National Congress of the Communist Party of China in 2017, President Xi Jinping repeatedly [mentioned](http://money.cnn.com/2017/11/27/news/economy/china-crackdown-pollution-economy/index.html) the terms ‘environment’ and ‘green’ during his speech, which, according to Tommy Xie, an economist at the OCBC Bank, reveals a shift in mentality. 
 
-## Problematique: Chinese Media and the Discussion of Climate Change 
+## Research Question: Chinese Media and the Discussion of Climate Change 
 Despite China’s efforts to tackle environmental issues domestically, the government’s position on climate change has remained contentious.
 
 > As the country remains the largest emitter of greenhouse gasses and carbon, and it is interesting to see how the government controlled media has been discussing climate change in relation to domestic environmental problems. 
