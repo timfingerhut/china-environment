@@ -19,21 +19,15 @@ body {
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/EDIGnqxYqMI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-|South China Morning Post                   |China Daily|
-| ------------------------------------------|---------------------------------------|
-| 100,000 copies                            |31 million web visits, 200,000 copies in circulation|
-| “Pig carcass furore still raising worries”|“Water safe despite carcasses"|
-| Reason for carcasses not clear            |
-| Government lacked explanation-suspicious! |
-| Government’s publicity campaign           |
+|**South China Morning Post**                   |**China Daily**|
+| ----------------------------------------------|---------------------------------------|
+| 100,000 copies                                |31 million web visits, 200,000 copies in circulation|
+| “Pig carcass furore still raising worries”    |“Water safe despite carcasses"|
+| Reason for carcasses not clear                |Shanghai authorities guaranteed the quality of drinking water|
+| Government lacked explanation-suspicious!     |Dead pigs were removed, polluted stream did not affect water |
+| Government’s publicity campaign               |Reason uncertain, but pigs were  young and  died of a virus|
 
-|China Daily|
-|---------------------------------------|
-|31 million web visits, 200,000 copies in circulation|
-|“Water safe despite carcasses"|
-|Shanghai authorities guaranteed the quality of drinking water|
-|Dead pigs were removed, polluted stream did not affect water |
-|Reason uncertain, but pigs were  young and  died of a virus|
+
 
 ![network map]({{ site.url }}/china-environment/assets/images/29B0C8BA00000578-3128043-image-a-9_1434542390179.jpg)
 
