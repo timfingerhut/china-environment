@@ -1,6 +1,6 @@
 <title>Example</title> <style> body { margin:0; padding:0; background-image:url("/china-environment/assets/images/Factory.pdf"); background-repeat: no-repeat; webkit-background-size: cover; moz-background-size: cover; o-background-size: cover; background-size: cover; } </style>
 
-<b>Comparison of Newspapers - A Criticality Index<b>
+<b>Comparison of Newspapers - A Criticality Index</b>
 
 When thinking about how different Chinese newspapers treat the environment, one question that readily comes to mind is to which degree a source criticizes government. We decided to develop an exemplary indicator, which can serve to compare the criticality of sources. 
 
