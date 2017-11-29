@@ -35,7 +35,7 @@ In response, the Chinese government has drawn up initiatives in order to combat 
 ## Research Question: Chinese Media and the Discussion of Climate Change 
 Despite China’s efforts to tackle environmental issues domestically, the government’s position on climate change has remained contentious.
 
-> As the country remains the largest emitter of greenhouse gasses and carbon, and it is interesting to see how the government controlled >media has been discussing climate change in relation to domestic environmental problems. 
+> As the country remains the largest emitter of greenhouse gasses and carbon, and it is interesting to see how the government controlled media has been discussing climate change in relation to domestic environmental problems. 
 
 The Chinese government has been censoring over media sources in order to retain authoritative control, along with monitoring and blocking websites, such as Wikipedia, Facebook, and Google. As such, it has been ranked as 176 out of 180 countries regarding its freedom of press according to Reporters Without Borders. 
 
