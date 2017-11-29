@@ -1,5 +1,5 @@
 
-Title: Comparison of Newspapers - A Criticality Index
+Comparison of Newspapers - A Criticality Index
 
 
 
