@@ -30,7 +30,9 @@ Can Chinese Media Help Government Clean the Air?
 
 <iframe src="https://documents.cortext.net/b9ce/b9ce7406d17e44658332c4e327f0b70f/48915/temporal%20evolution/basic_statistics_ISItermsAll_Articles_Terms_20ISIpubdate.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1300" height="800" allowfullscreen></iframe>
 
-News Coverage
+![network map]({{ site.url }}/china-environment/assets/images/Demograph1peilin.png)
+
+## News Coverage
 
 2013.01: Exceptionally high levels of particulate matter (PM) concentrations were reported for the area around Beijing (40 N, 116 E) with maximum concentrations exceeding 500 μg/m3.
 
@@ -38,7 +40,7 @@ News Coverage
 
 2015.12: Beijing issued red alerts for severe pollution—the first since the emergency alert system was established. The municipal government closed schools, limited road traffic, halted outdoor construction, and paused factory manufacturing. 
 
-Government's Reaction
+## Government's Reaction
 
 2013.09 — China’s State Council released its Action Plan for Air Pollution Prevention and Control (Action Plan) on 12 September 2013 , eight months after the widely-reported air pollution episode that occurred in the January 2013, which covered one-sixth of China’s territory. 
 
@@ -46,8 +48,8 @@ Government's Reaction
 
 In December 2015, the Asian Development Bank approved a $300 million loan to help China address the capital region’s choking smog.
 
-![network map]({{ site.url }}/china-environment/assets/images/Demograph1peilin.png)
-
 ![network map]({{ site.url }}/china-environment/assets/images/Dempgraphy2peilin.png)
+
+“Local government” are more frequently mentioned than “central government” in air pollution reports
 
 [Home](index.md)-[Next Page](page2.md)
