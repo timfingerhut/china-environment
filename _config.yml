@@ -10,4 +10,5 @@ menu: [
 {'name': 'Topic Modelling', 'pagename': 'page3'},
 {'name': 'Contingency Matrix', 'pagename': 'page4'},
 {'name': 'Network Analysis', 'pagename': 'page5'},
+{'name': 'Media and Government', 'pagename': 'page6'},
 ]
