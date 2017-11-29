@@ -10,5 +10,7 @@ We assume that a proxy to government criticism is the number of times a source m
 
 
 
+![network map]({{ site.url }}/china-environment/assets/images/Factiva Search.png)
+
 
 
