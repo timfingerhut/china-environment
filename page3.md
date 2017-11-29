@@ -6,9 +6,26 @@
 <iframe src="https://documents.cortext.net/3546/354699fc802d81b23edb0b3b0b47f8cf/53458/vislda.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 <br>
 
+Biggest Themes: 
+
+1: air pollution - general 
+2: water, panda, river
+3: Beijing - smog etc.
+4: international affairs 
+5: Emission, consumption - technical details
+
+
 ## China Daily
 
 <iframe src="https://documents.cortext.net/f246/f246dc27005ea9af0ab45e2986b48fea/53459/vislda.html#topic=0&lambda=1&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+
+Biggest Themes:
+
+1: air pollution & city  - china air quality index (pm 25 important for first topic
+2: Business & Markets
+3: International affairs
+4: Student & Parks
+5: Animal species & Wildlife - also includes panda
 
 
 [Home](index.md) - [Previous Page](page2.md) - [Next Page](page4.md)
