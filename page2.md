@@ -36,7 +36,10 @@ body {
 
 <br>
 
-<iframe src="/china-environment/assets/images/Factiva-China Daily-Carcasses.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>
+|**South China Morning Post**                   |**China Daily**|
+| ----------------------------------------------|---------------------------------------|
+| <iframe src="/china-environment/assets/images/Factiva-SCMP-Pig Carcases.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>                     | <iframe src="/china-environment/assets/images/Factiva-China Daily-Carcasses.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>|
+
 
 <br>
 
