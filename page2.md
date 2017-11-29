@@ -26,9 +26,8 @@ body {
 <br>
 
 ## Comparison 
-
-|**South China Morning Post**                   |**China Daily**|
 | ----------------------------------------------|---------------------------------------|
+|**South China Morning Post**                   |**China Daily**|
 | 100,000 copies                                | 31 million web visits, 200,000 copies in circulation|
 | "*Pig carcass furore still raising worries*"  | "*Water safe despite carcasses*"|
 | Reason for carcasses not clear                | Shanghai authorities guaranteed the quality of drinking water|
