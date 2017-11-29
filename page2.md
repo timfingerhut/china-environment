@@ -23,13 +23,6 @@ body {
 </tr>
 </table>
 
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/EDIGnqxYqMI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-<br>
-
-![network map]({{ site.url }}/china-environment/assets/images/29B0C8BA00000578-3128043-image-a-9_1434542390179.jpg)
-
 <br>
 
 |**South China Morning Post**                   |**China Daily**|
