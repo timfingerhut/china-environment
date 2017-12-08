@@ -5,6 +5,7 @@ description: <i>Discussion of Climate Change&#8212;a Comparative Study // <b>« 
 
 menu: [
 {'name': 'Overview', 'pagename': 'index'},
+{'name': 'Sources and Methodology', 'pagename': 'page6'},
 {'name': 'Media and Government', 'pagename': 'page1'},
 {'name': 'Prototypes', 'pagename': 'page2'},
 {'name': 'Topic Modeling', 'pagename': 'page3'},
