@@ -13,17 +13,10 @@ body {
     
 </style>
 
-/* header */
- #example-table-theme-standard .tabulator-header .tabulator-col.column-wrap .tabulator-col-content .tabulator-col-title {
-          white-space: normal;
-          overflow: hidden;
-          text-overflow: clip;
-}
-
 > # Environmental Cost of China's Growth
 > ## Overview 
 
-Our project assesses the evolution of discourse regarding environmental issues, particularly climate change, in the Chinese media from 2000 to 2017. While the Chinese officials have raised their awareness of environmental problems due to rapid industrialization climate change has been discussed as an international, rather than a national issue in the government-controlled press.
+> Our project assesses the evolution of discourse regarding environmental issues, particularly climate change, in the Chinese media from 2000 to 2017. While the Chinese officials have raised their awareness of environmental problems due to rapid industrialization climate change has been discussed as an international, rather than a national issue in the government-controlled press.
 
 > ## Background 
 
