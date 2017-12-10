@@ -17,8 +17,12 @@ body {
  
 This section uses network mapping to compare and understand the discussion of climate change across Chinese media sources. Network mapping is a script that provides analysis and visualization of nodes correlated based on different proximity measures. It identifies dense groups and produces clusters. In this case, it can be used to determine under which sub-group the discussion of climate change appears.  
 
+China Daily
 <iframe src="https://docs.google.com/a/sciencespo.fr/spreadsheets/d/1tni4vGW_DB2Fg9bedNK4unt7wWzBrd0ycx6klpbvUh4/edit?usp=sharing" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>
- 
+
+South China Morning Post
+<iframe src="https://docs.google.com/a/sciencespo.fr/spreadsheets/d/1kwoA4Sn8j-0F11Xp66LKAKmshZJI-A9plARDfS93eBQ/edit?usp=sharing" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>
+  
 ## Heterogeneous Clusters-Subject
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/88d25efee4bd2cb76aa9c9adb00973d0" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
