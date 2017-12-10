@@ -21,11 +21,11 @@ This section uses network mapping to compare and understand the discussion of cl
 <iframe src="https://docs.google.com/a/sciencespo.fr/spreadsheets/d/1TXG8PqtCQo2e_ukp2gUCatRbDwWqlCKsBRSLHDYEfY0/edit?usp=sharing" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe>
   
 ## Heterogeneous Clusters-Subject
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/88d25efee4bd2cb76aa9c9adb00973d0" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/a5215b796c0714e82b530474fd52c74f" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
 ## Homogeneous Clusters-Words
 
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/d66eb2a316a88b19f19ca8f52341c029" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/a5cccb6d4d494a6092d1cfd53d094e5b" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
 
 ## South China Morning Post
