@@ -3,6 +3,16 @@
 
 > # III. Prototypes
 
+> ## A. Methodology 
+```ruby
+> // What do we mean by prototype?
+> Describe approach in one line here. 
+```
+
+> PROVIDE DETAILS OF THE APPROACH HERE! Here is the example of what I wrote for Topic Modeling: The technique was developed by [David Blei](http://www.cs.columbia.edu/~blei/) and others. The [Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) has prepared an introductory article on topic modeling, which features this short definition: <i>"Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’. Miriam Posner has described topic modeling as “a method for finding and tracing clusters of words (called “topics” in shorthand) in large bodies of texts."</i> We ran Cortext's [Topic Modeling](https://docs.cortext.net/analyzing-data/topic-modeling/) script.
+
+> ## B. Research 
+
 > <i>16,000 pig carcasses found floating in river that supplies Shanghai with drinking water (Mar 2013)</i>
 
 > <table>
@@ -13,7 +23,7 @@
 
 > <br>
 
-> ## Comparison 
+> ### Comparison 
 
 > |**South China Morning Post**                   |**China Daily**|
 > |----------------------------------------------|---------------------------------------|
