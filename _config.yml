@@ -6,12 +6,12 @@ theme: jekyll-theme-cayman
 
 menu: [
 {'name': 'Overview', 'pagename': 'index'},
-{'name': 'Sources and Methodology', 'pagename': 'page6'},
-{'name': 'Media and Government', 'pagename': 'page1'},
-{'name': 'Prototypes', 'pagename': 'page2'},
-{'name': 'Topic Modeling', 'pagename': 'page3'},
-{'name': 'Contingency Matrix', 'pagename': 'page4'},
-{'name': 'Network Analysis', 'pagename': 'page5'},
-{'name': 'Criticality Index', 'pagename': 'page7'},
+{'name': 'I. Sources and Methodology', 'pagename': 'page6'},
+{'name': 'II. Media and Government', 'pagename': 'page1'},
+{'name': 'III. Prototypes', 'pagename': 'page2'},
+{'name': 'IV. Topic Modeling', 'pagename': 'page3'},
+{'name': 'V. Contingency Matrix', 'pagename': 'page4'},
+{'name': 'VI. Network Analysis', 'pagename': 'page5'},
+{'name': 'VII. Criticality Index', 'pagename': 'page7'},
 {'name': 'Contact & Comments', 'pagename': 'page8'},
 ]
