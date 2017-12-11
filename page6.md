@@ -11,5 +11,5 @@
 
 > Please consult this date guide to match time steps with our code for the “Field Evolution” graphics. Dates are coded in monthly increments. For example, “20” responds to August 2001. “212” corresponds to August 2017.
 
-![network map]({{ site.url }}/china-environment/assets/images/dateguide.jpeg)
+> ![network map]({{ site.url }}/china-environment/assets/images/dateguide.jpeg)
 
