@@ -8,7 +8,7 @@ menu: [
 {'name': 'Overview', 'pagename': 'index'},
 {'name': 'I. Sources and Methodology', 'pagename': 'page6'},
 {'name': 'II. Media and Government', 'pagename': 'page1'},
-{'name': 'III. Prototypes', 'pagename': 'page2'},
+{'name': 'III. Prototypes: South China Morning Post vs. China Daily', 'pagename': 'page2'},
 {'name': 'IV. Topic Modeling', 'pagename': 'page3'},
 {'name': 'V. Contingency Matrix', 'pagename': 'page4'},
 {'name': 'VI. Network Analysis', 'pagename': 'page5'},
