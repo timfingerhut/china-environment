@@ -2,10 +2,9 @@
 
 > # IV. Topic Modeling
 
-> ```js
+```ruby
 // What is a topic model?
-  
-}
+Topic models are statistical models used to detect abstract topics in a collection of documents. The technique was developed by [David Blei](http://www.cs.columbia.edu/~blei/) and others.
 ```
 
 > ## Global Times
