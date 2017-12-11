@@ -15,7 +15,7 @@ body {
 
 ># VI. Network Analysis
 
-> ```ruby
+>```ruby
 // What is Network Analysis?
 Network Analysis studies connections and relationships within a dataset. 
 ```
