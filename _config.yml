@@ -14,3 +14,15 @@ menu: [
 {'name': 'VII. Criticality Index', 'pagename': 'page7'},
 {'name': 'Contact & Comments', 'pagename': 'page8'},
 ]
+
+<body>
+ 
+    <div class="wrap">
+        <!--Page content here...-->
+        <div class="push"><!--Sticky Footer Push--></div>
+    </div>
+    <footer>
+        <!--<b>« Green mountains and clear water are equal to mountains of gold and silver. »</b><i>&#12316;Xi Jinping</i>-->
+    </footer>
+ 
+</body>
