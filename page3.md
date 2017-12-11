@@ -4,8 +4,12 @@
 
 ```ruby
 // What is a topic model?
-Topic models are statistical models used to detect abstract topics in a collection of documents. The technique was developed by [David Blei](http://www.cs.columbia.edu/~blei/) and others.
+Topic models are statistical models used to detect abstract topics in a collection of documents. 
+The technique was developed by [http://www.cs.columbia.edu/~blei/](David Blei) and others.
 ```
+
+The [http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/](Journal of Digital Humanities has prepared an introductory article on topic models, which features this short definition: "Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’. Miriam Posner has described topic modeling as “a method for finding and tracing clusters of words (called “topics” in shorthand) in large bodies of texts."
+
 
 > ## Global Times
 > <iframe src="https://documents.cortext.net/3546/354699fc802d81b23edb0b3b0b47f8cf/53458/vislda.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
