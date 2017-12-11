@@ -26,15 +26,15 @@
 
 > But how much do we learn from these index scores? In order to further evaluate the data, we compare how the discussion of corruption evolved over time in the South China Morning Post and in China Daily. We conclude that Xi Jinping's anti-corruption push started to "unleash" the discussion of corruption in China Daily.
 
-> ## South China Morning Post
+> ### South China Morning Post
 > ![network map]({{ site.url }}/china-environment/assets/images/censorship-corruption-southchinamorningpost.jpeg)
 
-> ## China Daily
+> ### China Daily
 > ![network map]({{ site.url }}/china-environment/assets/images/corruption-china-daily-keycutoff183-march2015.jpeg)
 
 > One can dig even deeper by descending to the level of individual articles. These results actually lead us to re-consider the pertinence of our index scores. A qualitative evaluation of randomly selected articles mentioning both corruption and the environment published in the South China Morning Post and China Daily shows that there are qualitative differences in the news coverage not captured by our numerical index scores. 
 
-> ## South China Morning Post
+> ### South China Morning Post
 
 > ![network map]({{ site.url }}/china-environment/assets/images/south-china-morning-post-example.jpeg)
 
@@ -44,10 +44,10 @@
 
 
 
-## China Daily
+> ### China Daily
 
 > ![network map]({{ site.url }}/china-environment/assets/images/chinadaily-example-environment-corruption.jpeg)
 
 > ![network map]({{ site.url }}/china-environment/assets/images/chinadaily-example2.jpeg)
 
-> We welcome any suggestions for the development of further indicators or terms connotating criticality toward government! 
+> <b>We welcome any suggestions for the development of further indicators or terms connotating criticality toward government!</b>
