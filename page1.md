@@ -3,16 +3,27 @@
 
 > # II. Media Coverage and Chinese Government
 
-> ![network map]({{ site.url }}/china-environment/assets/images/Pollution Beijing.jpg)
+> ## A. Methodology 
+```ruby
+> // What is approach / main technique used in your section?
+> Describe approach in one line here. 
+```
 
-> ## Clusters
+> PROVIDE DETAILS OF THE APPROACH HERE! Here is the example of what I wrote for Topic Modeling: The technique was developed by [David Blei](http://www.cs.columbia.edu/~blei/) and others. The [Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) has prepared an introductory article on topic modeling, which features this short definition: <i>"Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’. Miriam Posner has described topic modeling as “a method for finding and tracing clusters of words (called “topics” in shorthand) in large bodies of texts."</i> We ran Cortext's [Topic Modeling](https://docs.cortext.net/analyzing-data/topic-modeling/) script.
+
+> ## B. Research 
+
+> ![network map]({{ site.url }}/china-environment/assets/images/Pollution Beijing.jpg)
+> Photo of a Chinese city. Smog is an ubiquitous political, social, economical and environmental topic with huge consequences for public health. 
+
+> ### Clusters
 
 > This analysis focuses on correlation between air pollution and government's reaction.
 
 > <iframe src="https://documents.cortext.net/5e53/5e53234ca4307d2393f316c90d7e7bca/49430/maps/hn-all-china-news-sources1_214top150-ISItermsAll_Articles_Terms-ISItermsAll_Articles_Terms-distributionalcooc-99999-oT0.53-9999-louTrueoT0.53tagchi2_False.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="700" allowfullscreen></iframe>
 <br>
 
-> ## Demography Analysis
+> ### Demography Analysis
 
 > Can Chinese Media Help Government Clean the Air?
 
@@ -20,7 +31,7 @@
 
 > ![network map]({{ site.url }}/china-environment/assets/images/Demograph1peilin.png)
 
-> ## News Coverage
+> ### News Coverage
 
 > 2013.01: Exceptionally high levels of particulate matter (PM) concentrations were reported for the area around Beijing (40 N, 116 E) with maximum concentrations exceeding 500 μg/m3.
 
@@ -28,7 +39,7 @@
 
 > 2015.12: Beijing issued red alerts for severe pollution—the first since the emergency alert system was established. The municipal government closed schools, limited road traffic, halted outdoor construction, and paused factory manufacturing. 
 
-> ## Government's Reaction
+> ### Government's Reaction
 
 > 2013.09: China’s State Council released its Action Plan for Air Pollution Prevention and Control (Action Plan) on 12 September 2013 , eight months after the widely-reported air pollution episode that occurred in the January 2013, which covered one-sixth of China’s territory. 
 
