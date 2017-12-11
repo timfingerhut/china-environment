@@ -12,11 +12,18 @@
     o-background-size: cover;
     background-size: cover;
     }
-    
-> </style>
-
 
 > # V. Contingency Matrix
+
+> ## A. Methodology 
+```ruby
+> // What is X?
+> Describe approach in one line here. 
+```
+
+> PROVIDE DETAILS OF THE APPROACH HERE! Here is the example of what I wrote for Topic Modeling: The technique was developed by [David Blei](http://www.cs.columbia.edu/~blei/) and others. The [Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) has prepared an introductory article on topic modeling, which features this short definition: <i>"Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’. Miriam Posner has described topic modeling as “a method for finding and tracing clusters of words (called “topics” in shorthand) in large bodies of texts."</i> We ran Cortext's [Topic Modeling](https://docs.cortext.net/analyzing-data/topic-modeling/) script.
+
+> ## B. Research 
 
 > The contingency matrix script proposes to visualize the joint distribution of the top 200 terms that we derived (after parsing all the data from all chosen Chinese news sources) and the news sources themselves. The aim is to see which news outlets cover what environmental topics based on the frequency of the terms.
 
