@@ -2,6 +2,7 @@
 
 > # IV. Topic Modeling
 
+> ## Methodology
 ```ruby
 > // What is a topic model?
 > Topic models are statistical models used to detect abstract topics in a collection of documents. 
@@ -9,8 +10,9 @@
 
 > The technique was developed by [David Blei](http://www.cs.columbia.edu/~blei/) and others. The [Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) has prepared an introductory article on topic modeling, which features this short definition: <i>"Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’. Miriam Posner has described topic modeling as “a method for finding and tracing clusters of words (called “topics” in shorthand) in large bodies of texts."</i>
 
+> ## Research 
 
-> ## Global Times
+> ### Global Times
 > <iframe src="https://documents.cortext.net/3546/354699fc802d81b23edb0b3b0b47f8cf/53458/vislda.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 <br>
 
@@ -23,7 +25,7 @@
 > 5: Emission, consumption - technical details
 
 
-> ## China Daily
+> ### China Daily
 
 > <iframe src="https://documents.cortext.net/1827/1827395e27ee1528c8848ec33562af72/52304/vislda.html#topic=0&lambda=1&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
