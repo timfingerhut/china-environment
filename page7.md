@@ -8,7 +8,7 @@
 > We constructed a criticality index to measure the degree to which a publication is critical of government.
 ```
 > ## Methodology
-> First, we came up with a list of terms, which are proxies of the willingness of publications to criticize the government in power. Then, we annonate the terms using the Cortext script ["Corpus Term Indexer"](https://docs.cortext.net/corpus-terms-indexer/). In order to operationalize the indicator, we normalized results in a spreadsheet (screenshot below). We then critically evaluate the usefulness of this numerical indicator. For this purpose, we utilize both the temporal indexation option (Cortext's "Demography"](https://docs.cortext.net/demography/) and also criticize the indicator by case studies. In order to find the cases, we went back to Factiva to search for and randomly select articles mentioning both "corruption" and "environment", which we deemed relevant based on the indicator analysis.
+> First, we came up with a list of terms, which are proxies of the willingness of publications to criticize the government in power. Then, we annonate the terms using the Cortext script ["Corpus Term Indexer"](https://docs.cortext.net/corpus-terms-indexer/). In order to operationalize the indicator, we normalized results in a spreadsheet (screenshot below). We then critically evaluate the usefulness of this numerical indicator. For this purpose, we utilize both the temporal indexation option (Cortext's ["Demography"](https://docs.cortext.net/demography/) and also criticize the indicator by case studies. In order to find the cases, we went back to Factiva to search for and randomly select articles mentioning both "corruption" and "environment", which we deemed relevant based on the indicator analysis.
 
 
 > ## Research
