@@ -7,7 +7,7 @@
 Topic models are statistical models used to detect abstract topics in a collection of documents. 
 ```
 
-> The technique was developed by [David Blei](http://www.cs.columbia.edu/~blei/) and others. The [Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) has prepared an introductory article on topic modeling, which features this short definition: <i>"Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’. Miriam Posner has described topic modeling as “a method for finding and tracing clusters of words (called “topics” in shorthand) in large bodies of texts."<i/>
+> The technique was developed by [David Blei](http://www.cs.columbia.edu/~blei/) and others. The [Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) has prepared an introductory article on topic modeling, which features this short definition: <i>"Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’. Miriam Posner has described topic modeling as “a method for finding and tracing clusters of words (called “topics” in shorthand) in large bodies of texts."</i>
 
 
 > ## Global Times
