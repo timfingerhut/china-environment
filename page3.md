@@ -12,11 +12,13 @@
 
 > ## B. Research 
 
+> We ran Cortext's [Topic Modeling](https://docs.cortext.net/analyzing-data/topic-modeling/) script on the Global Times and the China Daily corpus. We provide a classification of the top 5 resulting topics for each source. You can scroll through the topics and see which terms the algorithm included for each individual topic. 
+
 > ### Global Times
 > <iframe src="https://documents.cortext.net/3546/354699fc802d81b23edb0b3b0b47f8cf/53458/vislda.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 <br>
 
-> Biggest Themes: 
+> Most relevant Themes: 
 
 > 1: air pollution - general 
 > 2: water, panda, river
@@ -29,7 +31,7 @@
 
 > <iframe src="https://documents.cortext.net/1827/1827395e27ee1528c8848ec33562af72/52304/vislda.html#topic=0&lambda=1&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
-> Biggest Themes:
+> Most relevant Themes:
 
 > 1: Economy 
 > 2: World Affairs
