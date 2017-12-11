@@ -24,15 +24,15 @@
 > | Government’s publicity campaign               | Reason uncertain, but pigs were  young and  died of a virus|
 
 
-> <br>
+<br>
 
-> <table>
+<table>
 <tr>
 <td><p><b>South China Morning Post</b></p><iframe src="/china-environment/assets/images/Factiva-SCMP-Pig Carcases.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe></td><td><p><b>China Daily</b></p><iframe src="/china-environment/assets/images/Factiva-China Daily-Carcasses.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe></td>
 </tr>
 </table>
 
 
-> <br>
+<br>
 
-> [Home](index.md) [Previous Page](page1.md) [Next Page](page3.md)
+[Home](index.md) [Previous Page](page1.md) [Next Page](page3.md)
