@@ -13,7 +13,7 @@ body {
     
 </style>
 
-># Network Analysis
+># VI. Network Analysis
  
 > ## Overview
 > This section uses network mapping to compare and understand the discussion of climate change across Chinese media sources. Network mapping is a script that provides analysis and visualization of nodes correlated based on different proximity measures. It identifies dense groups and produces clusters. In this case, it can be used to determine under which sub-group the discussion of climate change appears. 
