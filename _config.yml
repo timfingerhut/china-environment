@@ -12,4 +12,5 @@ menu: [
 {'name': 'Contingency Matrix', 'pagename': 'page4'},
 {'name': 'Network Analysis', 'pagename': 'page5'},
 {'name': 'Criticality Index', 'pagename': 'page7'},
+{'name': 'Contact & Comments', 'pagename': 'page8'},
 ]
