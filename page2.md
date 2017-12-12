@@ -8,12 +8,11 @@
 > // What do we mean by prototype?
 > Describe approach in one line here. 
 ```
-
-> PROVIDE DETAILS OF THE APPROACH HERE! Here is the example of what I wrote for Topic Modeling: The technique was developed by [David Blei](http://www.cs.columbia.edu/~blei/) and others. The [Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) has prepared an introductory article on topic modeling, which features this short definition: <i>"Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’. Miriam Posner has described topic modeling as “a method for finding and tracing clusters of words (called “topics” in shorthand) in large bodies of texts."</i> We ran Cortext's [Topic Modeling](https://docs.cortext.net/analyzing-data/topic-modeling/) script.
+The goal of the research described in this site was to find evidence of different frames of topics concerning or related to environment in Chinese newspaper coverage. In this page, the reader can visualize concrete examples of how different newspapers covered the same news in very different ways.
 
 > ## B. Research 
 
-> <i>16,000 pig carcasses found floating in river that supplies Shanghai with drinking water (Mar 2013)</i>
+> ### Example 1: 16,000 pig carcasses found floating in river that supplies Shanghai with drinking water
 
 > <table>
 > <tr>
@@ -23,17 +22,6 @@
 
 > <br>
 
-> ### Comparison 
-
-> |**South China Morning Post**                   |**China Daily**|
-> |----------------------------------------------|---------------------------------------|
-> | 100,000 copies                                | 31 million web visits, 200,000 copies in circulation|
-> | "*Pig carcass furore still raising worries*"  | "*Water safe despite carcasses*"|
-> | Reason for carcasses not clear                | Shanghai authorities guaranteed the quality of drinking water|
-> | Government lacked explanation                 | Dead pigs were removed, polluted stream did not affect water |
-> | Government’s publicity campaign               | Reason uncertain, but pigs were  young and  died of a virus|
-
-
 <br>
 
 <table>
@@ -42,7 +30,14 @@
 </tr>
 </table>
 
-
 <br>
 
-[Home](index.md) [Previous Page](page1.md) [Next Page](page3.md)
+### Example 2: Severe pollution resulting in explosions
+
+> <table>
+> <tr>
+> <td><iframe width="640" height="360" src="https://www.youtube.com/embed/AXYbG_vn4yg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></td><td><iframe width="640" height="360" src="/china-environment/assets/images/29B0C8BA00000578-3128043-image-a-9_1434542390179.jpg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></td>
+> </tr>
+> </table>
+
+
