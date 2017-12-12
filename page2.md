@@ -22,7 +22,7 @@ The goal of the research described in this site was to find evidence of differen
 
 > <br>
 
-> ![network map]({{ site.url }}/china-environment/assets/images/south-china-morning-post-example.jpeg)
+> ![network map]({{ site.url }}/china-environment/assets/images/Table 1-pig carcasses.png)
 
 <br>
 
