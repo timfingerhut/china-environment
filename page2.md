@@ -36,7 +36,7 @@ The goal of the research described in this site was to find evidence of differen
 
 > <table>
 > <tr>
-> <td><iframe width="640" height="360" src="https://www.youtube.com/embed/AXYbG_vn4yg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></td><td><iframe width="640" height="360" src="/china-environment/assets/images/29B0C8BA00000578-3128043-image-a-9_1434542390179.jpg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></td>
+> <td><iframe width="640" height="360" src="https://www.youtube.com/embed/AXYbG_vn4yg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></td><td><iframe width="640" height="360" src="/china-environment/assets/images/pic-beijing-smog-prototypes.jpg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></td>
 > </tr>
 > </table>
 
