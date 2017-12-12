@@ -32,7 +32,7 @@ The goal of the research described in this site was to find evidence of differen
 
 <br>
 
-### Example 2: Severe pollution resulting in explosions
+> ### Example 2: Severe pollution resulting in explosions
 
 > <table>
 > <tr>
