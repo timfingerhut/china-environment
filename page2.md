@@ -46,7 +46,7 @@ The goal of the research described in this site was to find evidence of differen
 
 <table>
 <tr>
-<td><p><b>South China Morning Post</b></p><iframe src="/china-environment/assets/images/Tianjin's Hell on Earth.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe></td><td><p><b>China Daily</b></p><iframe src="/china-environment/assets/images/Factiva-China Daily-Carcasses.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe></td>
+<td><p><b>South China Morning Post</b></p><iframe src="/china-environment/assets/images/Tianjin's Hell on Earth.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe></td><td><p><b>China Daily</b></p><iframe src="/china-environment/assets/images/Rumors of pollution quashed.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="800" allowfullscreen></iframe></td>
 </tr>
 </table>
 
