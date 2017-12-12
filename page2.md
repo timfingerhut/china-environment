@@ -22,6 +22,8 @@ The goal of the research described in this site was to find evidence of differen
 
 > <br>
 
+> ![network map]({{ site.url }}/china-environment/assets/images/south-china-morning-post-example.jpeg)
+
 <br>
 
 <table>
@@ -40,4 +42,4 @@ The goal of the research described in this site was to find evidence of differen
 > </tr>
 > </table>
 
-
+> ![network map]({{ site.url }}/china-environment/assets/images/south-china-morning-post-example.jpeg)
