@@ -16,9 +16,10 @@
 > # V. Contingency Matrix
 
 > ## A. Methodology 
+```ruby
 > // What is a contingency matrix?
 > A contingency matrix visualizes the correlation of two fields over documents in a corpus. 
-
+```
  
 > The contingency matrix below visualizes the joint distribution of the top 200 terms (extracted after parsing all the data from the most popular Chinese news outlets) with respect to the news sources in China (2000-2017). Since the country has been experiencing recurring environmental crises, including air and water pollution, the matrix offers an insight on what Chinese news outlets covered about environmental concerns based on the frequency of the terms. 
 
