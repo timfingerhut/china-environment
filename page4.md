@@ -16,7 +16,7 @@
 > # V. Contingency Matrix
 
 > ## A. Methodology 
-> // What is a contingency matrix?
+> What is a contingency matrix?
 > A contingency matrix visualizes the correlation of two fields over documents in a corpus. 
 
  
@@ -25,7 +25,7 @@
 > <iframe src="https://documents.cortext.net/cb43/cb43640a4e569e043ea59e6a5a13e567/52171/contingency_matrix-all-china-news-sources-logFalse-ISItermsAll_Articles_Top_200_T-SourceName-y1_214-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="670" allowfullscreen></iframe>
 
 
-> Before developing the matrix, we extracted a list of the six most popular local news outlets in China, and extracted 200 frequent terms from the combined Chinese news articles (all-China-news-sources) corpus. After indexing the all-China-news-sources corpus with both term and source lists, we used the contingency matrix on Cortext to analyze the corpus. In selecting the nodes, we chose the term list as the First Field of the matrix, and the source name as the Second Field. The matrix analyzed co-occurrence of a pair of 20 items drawn from  each list within the reports. 
+> Before developing the matrix, we extracted a list of the six most popular local news outlets in China, and extracted 200 frequent terms > from the combined Chinese news articles (all-China-news-sources) corpus. After indexing the all-China-news-sources corpus with both term and source lists, we used the contingency matrix on Cortext to analyze the corpus. In selecting the nodes, we chose the term list as the First Field of the matrix, and the source name as the Second Field. The matrix analyzed co-occurrence of a pair of 20 items drawn from  each list within the reports. 
 
 > In following the null that their distributions are independent, the matrix calculates whether the joint appearance of a pair in the reports is higher or lower than expected. If a cell is red, such as the one for ‘air pollution’ and ‘South China Morning Post’, the number of joint mentions of a term in the news outlet is higher than expected. However, if a cell is blue, such as the one for ‘air pollution’ and ‘China Daily’, the level of co-occurrence between the two is lower than expected, meaning that fewer there are fewer mentions of air pollution in the newspaper China Daily. The deviation marked by the strength of the color reveals the degree of their co-occurrence. While strong colors suggest either high or low co-occurrence of a pair in the articles, white cells do not feature correlation, meaning that their joint mentions are neither above nor below average. 
 
