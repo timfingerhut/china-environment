@@ -37,7 +37,7 @@ body {
 > ### Heterogeneous Clusters-By Subject
 > <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/a5215b796c0714e82b530474fd52c74f" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
-> The pattern in the homogeneous structure below is more extreme. On the left end of the arc, the ‘Authorities & River’ cluster discusses ‘air pollution’, ‘air quality’, ‘smog’, ‘local governments’, ‘water’, ‘environment’, ‘environmental protection’ and ‘village’. This is closely linked with the cluster titled ‘Species & Nature’, which contains ‘sea’, ‘research’, ‘marine’, ‘trees’ and ‘forest’. While these two are intertwined, they are also associated with terms including ‘government’, ‘plan’, and ‘waste’. This could suggest that articles are more likely to discuss water and pollution levels in a local context. 
+> The pattern in the homogeneous structure below is more rigid. On the left end of the arc, the ‘Authorities & River’ cluster discusses ‘air pollution’, ‘air quality’, ‘smog’, ‘local governments’, ‘water’, ‘environment’, ‘environmental protection’ and ‘village’. This is closely linked with the cluster titled ‘Species & Nature’, which contains ‘sea’, ‘research’, ‘marine’, ‘trees’ and ‘forest’. While these two are intertwined, they are also associated with terms including ‘government’, ‘plan’, and ‘waste’. This could suggest that articles are more likely to discuss water and pollution levels in a local context. 
 
 > ### Homogeneous Clusters-By Terms
 
