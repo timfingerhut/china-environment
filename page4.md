@@ -16,9 +16,7 @@
 > # V. Contingency Matrix
 
 > ## A. Methodology 
-```ruby
-> // What is X?
-> Describe approach in one line here. 
+
 A contingency matrix visualizes the correlation of two fields over documents in a corpus. The contingency matrix shows the degree of correlation between any pair of items drawn from chosen fields. 
  
 > The contingency matrix below visualizes the joint distribution of the top 200 terms (extracted after parsing all the data from the most popular Chinese news outlets) with respect to the news sources in China (2000-2017). Since the country has been experiencing recurring environmental crises, including air and water pollution, the matrix offers an insight on what Chinese news outlets covered about environmental concerns based on the frequency of the terms. 
@@ -30,7 +28,7 @@ Before developing the matrix, we extracted a list of the six most popular local 
 
 In following the null that their distributions are independent, the matrix calculates whether the joint appearance of a pair in the reports is higher or lower than expected. If a cell is red, such as the one for ‘air pollution’ and ‘South China Morning Post’, the number of joint mentions of a term in the news outlet is higher than expected. However, if a cell is blue, such as the one for ‘air pollution’ and ‘China Daily’, the level of co-occurrence between the two is lower than expected, meaning that fewer there are fewer mentions of air pollution in the newspaper China Daily. The deviation marked by the strength of the color reveals the degree of their co-occurrence. While strong colors suggest either high or low co-occurrence of a pair in the articles, white cells do not feature correlation, meaning that their joint mentions are neither above nor below average. 
 
-> ## B. Research 
+> ## B. Interpretation 
 
 The matrix offers an insight regarding the news outlets differing reporting on the environmental crisis in China. It reveals a quite interesting correlation between the terms and the news sources. For instance, China Daily displays lighter shades for the same terms that display darker shades for South China Morning Post. A good example on that is the term ‘air pollution’, which has a light blue color when correlated with China Daily, but a dark red colour when correlated with South China Morning Post. This suggests that a topic, like air pollution, is rarely discussed in China Daily, while discussed more frequently in the South China Morning Post. Knowing that air pollution is a severe environmental issue in China, it is surprising to see that the main news outlet, China Daily, does not discuss it more frequently. On the contrary, there is a higher correlation of the term ‘climate change’ with China Daily than the term with South China Morning Post. This is possibly because China Daily reports on more international topics, while South China Morning Post reports on more national topics. Climate change in China, as discussing in earlier sections, is addressed as a global/international issue. Hence, reporting on it does not necessarily have to do with what is going on nationally. This could suggest that China Daily’s willingness to report on environmental issues that are international, rather than voicing national environmental concerns. The matrix highlights the importance of taking into account the contextual meanings behind topics/terms.
 
