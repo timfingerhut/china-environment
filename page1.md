@@ -5,7 +5,7 @@
 
 > ## A. Methodology 
 
-> Our analysis strategy of the correlation between media and Chinese government first falls into a class of text analysis methods broadly characterized as co-occurence approaches ([M. Callon et al.](https://link-springer-com-s.acces-distant.sciences-po.fr/content/pdf/10.1007%2FBF02019280.pdf)), which produce categories by relying on terms' joint appearance over a particular unit of text ([Jean-Philippe Cointet et al.](http://www.pnas.org/content/112/35/10837)). Given the way how clusters are connected with each other, our strategy then falls into a demography analysis. We extracted a [Term List](https://docs.cortext.net/list-indexer/) from our corpus and then ran Cortext's [Demography Analysis](https://docs.cortext.net/demography/) script to grasp how major issues have evolved since 2000.  
+> Our analysis strategy of the correlation between media and Chinese government first falls into a class of text analysis methods broadly characterized as co-occurence approaches ([M. Callon et al.](https://link-springer-com-s.acces-distant.sciences-po.fr/content/pdf/10.1007%2FBF02019280.pdf)), which produce categories by relying on terms' joint appearance over a particular unit of text ([Jean-Philippe Cointet et al.](http://www.pnas.org/content/112/35/10837)). Given the way how clusters are connected with each other, our strategy then falls into a demography analysis. We extracted a [Term List](https://docs.cortext.net/corpus-terms-indexer/) from our corpus and then ran Cortext's [Demography Analysis](https://docs.cortext.net/demography/) script to grasp how major issues have evolved since 2000.  
 
 > ## B. Research 
 
