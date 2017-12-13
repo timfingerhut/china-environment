@@ -1,7 +1,7 @@
 
 <title>Example</title> <style> body { margin:0; padding:0; background-image:url("/china-environment/assets/images/Factory.pdf"); background-repeat: no-repeat; webkit-background-size: cover; moz-background-size: cover; o-background-size: cover; background-size: cover; } </style>
 
-> # II. Media Coverage and Chinese Government-Can Chinese Media Help Government Clean the Air?
+> # II. Media Coverage and Chinese Government: can Chinese Media Help Government Clean the Air?
 
 > ## A. Methodology 
 
