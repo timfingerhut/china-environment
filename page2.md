@@ -6,7 +6,7 @@
 > ## A. Methodology 
 ```ruby
 > // What do we mean by prototype?
-> Describe approach in one line here. 
+> A prototype is a sample to test our hypothesis. 
 ```
 The goal of the research described in this site was to find evidence of different frames of topics concerning or related to environment in Chinese newspaper coverage. In this page, the reader can visualize concrete examples of how different newspapers covered the same news in very different ways.
 
