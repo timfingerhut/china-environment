@@ -13,16 +13,15 @@
 
 > <iframe src="https://documents.cortext.net/5e53/5e53234ca4307d2393f316c90d7e7bca/49430/maps/hn-all-china-news-sources1_214top150-ISItermsAll_Articles_Terms-ISItermsAll_Articles_Terms-distributionalcooc-99999-oT0.53-9999-louTrueoT0.53tagchi2_False.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="700" allowfullscreen></iframe>
 <br>
-
 > This is a network mapping of our entire corpus. Node position is determined by a force vector algorithm ([Joacomy et al., forthcoming](http://www.medialab.sciences-po.fr/publications/Jacomy_Heymann_Venturini-Force_Atlas2.pdf)) bringing together terms directly or indirectly linked, and keeping away terms with fewer cooccurrences. Node size is proportional to their frequency in the corpus. Node color follows the clusters identified by the clustering algorithm.
 
-We observe that "air pollution" is at the center of this map and more or less connected with all the other clusters. It is easy to understand because during the past 15 years, "Smog" is an ubiquitous political, social, economical and environmental topic with huge consequences for public health. 
+> We observed that "air pollution" is at the center of this map and more or less connected with all the other clusters. It is easy to understand because during the past 15 years, "Smog" is an ubiquitous political, social, economical and environmental topic with huge consequences for public health. 
 
 > ![network map]({{ site.url }}/china-environment/assets/images/Pollution Beijing.jpg)
 
 > Photo of a Chinese city
 
-It is then natural to raise the following question: does media coverage foster government's policies against air pollution? We will focus on the topic of "air pollution" and check whether media has a proactive or reactive role towards the government.
+> It is then natural to raise the following question: does media coverage foster government's policies against air pollution? We will focus on the topic of "air pollution" and check whether media has a proactive or reactive role towards the government.
 
 > ### Demography Analysis
 
