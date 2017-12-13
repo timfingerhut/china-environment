@@ -15,10 +15,9 @@
 <br>
 > This is a network mapping of our entire corpus. Node position is determined by a force vector algorithm ([Joacomy et al., forthcoming](http://www.medialab.sciences-po.fr/publications/Jacomy_Heymann_Venturini-Force_Atlas2.pdf)) bringing together terms directly or indirectly linked, and keeping away terms with fewer cooccurrences. Node size is proportional to their frequency in the corpus. Node color follows the clusters identified by the clustering algorithm.
 
-> We observed that "air pollution" is at the center of this map and more or less connected with all the other clusters. It is easy to understand because during the past 15 years, "Smog" is an ubiquitous political, social, economical and environmental topic with huge consequences for public health. 
+> We observed that "air pollution" is at the center of this map and more or less connected with all the other clusters. It is easy to understand because during the past 15 years, "Smog" is an ubiquitous political, social, economical and environmental topic with huge consequences for public health (See the picture below of a Chinese city).
 
 > ![network map]({{ site.url }}/china-environment/assets/images/Pollution Beijing.jpg)
-> Photo of a Chinese city
 
 > It is then natural to raise the following question: does media coverage foster government's policies against air pollution? We will focus on the topic of "air pollution" and check whether media has a proactive or reactive role towards the government.
 
