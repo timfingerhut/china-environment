@@ -18,7 +18,6 @@
 > We observed that "air pollution" is at the center of this map and more or less connected with all the other clusters. It is easy to understand because during the past 15 years, "Smog" is an ubiquitous political, social, economical and environmental topic with huge consequences for public health. 
 
 > ![network map]({{ site.url }}/china-environment/assets/images/Pollution Beijing.jpg)
-
 > Photo of a Chinese city
 
 > It is then natural to raise the following question: does media coverage foster government's policies against air pollution? We will focus on the topic of "air pollution" and check whether media has a proactive or reactive role towards the government.
