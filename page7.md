@@ -2,11 +2,11 @@
 
 
 > # <b>VII. Comparison of Newspapers - A Criticality Index</b>
-
 ```ruby
-> //What do we mean by criticality index?
-> We constructed a criticality index to measure the degree to which a publication is critical of government.
+> // What do we mean by criticality index? 
+> We constructed a criticality index to measure the degree to which a publication is critical of government.  
 ```
+
 > ## A. Methodology
 > First, we came up with a list of terms, which are proxies of the willingness of publications to criticize the government in power. Then, we annonate the terms using the Cortext script ["Corpus Term Indexer"](https://docs.cortext.net/corpus-terms-indexer/). In order to operationalize the indicator, we normalized results in a spreadsheet (screenshot below). We then critically evaluate the usefulness of this numerical indicator. For this purpose, we utilize both the temporal indexation option (Cortext's ["Demography"](https://docs.cortext.net/demography/) script) and also criticize the indicator by case studies. In order to find the cases, we went back to Factiva to search for and randomly select articles mentioning both "corruption" and "environment", a sub-category of articles we deemed relevant based on the indicator analysis.
 
