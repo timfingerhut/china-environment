@@ -61,3 +61,5 @@ body {
 > <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/1bb440e79273433fb81261974c2cc851" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
 >  However, as in the homogeneous network analyzing all sources, there are no direct links between local environmental issues and the discussion of climate change, suggesting that it is less likely for China Daily to cover these two topics together. Moreover, as overall environmental issues appear in the context of ‘bureau’ and ‘province’, it is possible to assume that local governments are seen as being responsible for tackling China’s domestic environmental problems. Climate change, on the other hand, is seen as a global issue in which local efforts are not necessarily considered. 
+
+> [Home](index.md) - [Previous Page](page4.md) - [Next Page](page7.md)
