@@ -50,3 +50,4 @@ The goal of the research described in this site was to find evidence of differen
 > </tr>
 > </table>
 
+> [Home](index.md) - [Previous Page](page1.md) - [Next Page](page3.md)
