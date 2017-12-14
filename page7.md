@@ -4,7 +4,7 @@
 > # <b>VII. Comparison of Newspapers - A Criticality Index</b>
 
 ```ruby
-> // What do we mean by criticality index?
+> //What do we mean by criticality index?
 > We constructed a criticality index to measure the degree to which a publication is critical of government.
 ```
 > ## A. Methodology
