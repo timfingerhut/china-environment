@@ -21,3 +21,4 @@ Newspapers are chosen as the source media for reports on environmental issues as
 
 > ![network map]({{ site.url }}/china-environment/assets/images/dateguide.jpeg)
 
+> [Home](index.md) - [Next Page](page1.md)
