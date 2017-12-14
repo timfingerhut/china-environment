@@ -6,9 +6,9 @@
 > ## A. Methodology 
 ```ruby
 > // What do we mean by prototype?
-> A prototype is a sample to test our hypothesis. 
+> A prototype is a sample to test our hypothesis. We presume that mainland and Hong Kong newspapers frame particular policy issues in qualitatively different ways.
 ```
-The goal of the research described in this site was to find evidence of different frames of topics concerning or related to environment in Chinese newspaper coverage. In this page, the reader can visualize concrete examples of how different newspapers covered the same news in very different ways.
+The goal of the research presented on this page was to find evidence regarding different frames of environmental topics in Chinese newspaper coverage. In the following sections, the reader can visualize concrete examples of how different newspapers covered the same news in very different ways.
 
 > ## B. Research 
 
