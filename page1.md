@@ -58,4 +58,4 @@
 
 > Local governments will be held accountable to make concrete plans to meet air quality targets and execute them accordingly. The New Law requires cities that fail to meet air quality standards to submit and publish detailed, explicit plans to achieve air quality targets. If air quality targets are not met after a certain period, local government leaders will be asked to explain and develop correction plans, and new projects in the city will be prohibited from undergoing required Environmental Impact Assessments.
 
-> > [Home](index.md) - [Previous Page](page6.md) - [Next Page](page2.md)
+> [Home](index.md) - [Previous Page](page6.md) - [Next Page](page2.md)
