@@ -1,7 +1,7 @@
 
 <title>Example</title> <style> body { margin:0; padding:0; background-image:url("/china-environment/assets/images/Factory.pdf"); background-repeat: no-repeat; webkit-background-size: cover; moz-background-size: cover; o-background-size: cover; background-size: cover; } </style>
 
-> #  Environmental Cost of Growth: An Evolving Threat Perception of Government, Population and the Media?
+> #  Environmental Cost of China's Growth: An Evolving Threat Perception of Government, Population and the Media?
 > ## Overview 
 
 > Our project assesses the evolution of discourse regarding environmental issues and climate change in the Chinese media from 2000 to 2017. Chinese news sources have continued to raise awareness of domestic environmental problems, such as air and water pollution, resulting from rapid industrialization and increased use of energy sources, particularly coal. Despite China’s increased carbon and greenhouse gas emissions, the discussion of climate change in media has been confined to an international, rather than a domestic context. 
