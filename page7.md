@@ -51,3 +51,5 @@
 > ![network map]({{ site.url }}/china-environment/assets/images/chinadaily-example2.jpeg)
 
 > <b>We welcome any suggestions for the development of further indicators or terms connotating criticality toward government!</b>
+
+> [Home](index.md) - [Previous Page](page5.md) - [Next Page](page8.md)
