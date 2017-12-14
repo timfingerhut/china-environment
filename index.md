@@ -29,4 +29,4 @@
 > ## Research Question: Chinese Media and the Discussion of Climate Change 
 > Despite its attempts to resolve environmental issues and its participation in global dialogue, the Chinese government’s position on climate change has remained contentious. As the country is the largest emitter of greenhouse gasses, our research focuses on analyzing how the government-controlled press has been discussing climate change in relation to domestic environmental problems. Moreover, China has been ranked as 176 out of 180 countries based on the freedom of press, as the government [has censored](https://www.cfr.org/backgrounder/media-censorship-china) media sources in order to retain authoritative control, while monitoring and blocking websites, including Wikipedia, Facebook, and Google. In using digital methods to [analyze](page6.md) over 16,000 Chinese press articles since 2000, our research has found that while the government-controlled press has been discussing air pollution in a local context, ‘climate change’ has been largely considered as an international, rather than a domestic issue.
 
-
+> [Home](index.md) - [Next Page](page1.md)
